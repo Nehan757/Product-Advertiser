@@ -1,4 +1,4 @@
-# Product_Advertisment
+# Product-Advertiser
  Product-advertisment-creator-using-Diffusion-and-HuggingFace
 ## Installation
 
